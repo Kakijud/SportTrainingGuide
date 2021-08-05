@@ -1,1 +1,1 @@
-# SportTrainingGuide
+# Guide
