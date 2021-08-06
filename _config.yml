@@ -1,3 +1,6 @@
 remote_theme: Kakijud/theme
 
+plugins:
+- jekyll-include-cache
+
 title: Test
